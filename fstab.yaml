@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/xwalk/main
+  url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/xwalk/main"
+  tyle: markup
+  suffix: ".html"
